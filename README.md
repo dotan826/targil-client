@@ -3,7 +3,9 @@
 
 ## For Testing on single computer, do the following :
 
-1. open the file `"App.tsx"` and set the variable `"baseURL"` to `"http://localhost:4000"`.
+1. open the file `"App.tsx"` and set the variable `"baseURL"` to `"http://localhost:4000"` (server debug run on port 4000).
+
+2. now open console and run `"npm start"` to debug.
 
 
 ## Instructions for Client :
