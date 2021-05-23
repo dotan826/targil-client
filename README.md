@@ -23,3 +23,5 @@
 [Server](https://github.com/dotan826/targil-server)
 
 
+## Screenshot :
+![screenshot](https://github.com/dotan826/targil-client/blob/main/images/screenshot.png)
