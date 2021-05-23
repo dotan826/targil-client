@@ -84,7 +84,7 @@ const App = () => {
   return (
     <div className="page-container">
       <div className="content-container">
-        
+
         <div className="form-area">
           <div className="input-area">
             <input type="text" className="email-input" placeholder="Email" value={email} onChange={(e) => { setEmail(e.target.value) }}></input>
